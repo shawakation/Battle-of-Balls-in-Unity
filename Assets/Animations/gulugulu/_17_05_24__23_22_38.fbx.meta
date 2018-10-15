@@ -1,0 +1,1173 @@
+fileFormatVersion: 2
+guid: 1dc08974e6c393940b4853be2855a3fe
+timeCreated: 1495639427
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1 1
+    100004: 1 2
+    100006: 1 3
+    100008: 123
+    100010: 123 1
+    100012: 123 2
+    100014: 123 3
+    100016: 123 4
+    100018: 123 5
+    100020: 123 6
+    100022: 124
+    100024: 124 1
+    100026: 124 2
+    100028: 124 3
+    100030: 124 4
+    100032: 124 5
+    100034: 2
+    100036: 2 1
+    100038: 2 2
+    100040: 3
+    100042: 3 1
+    100044: 3 2
+    100046: 4
+    100048: 4 1
+    100050: 4 2
+    100052: //RootNode
+    100054: BanYuan
+    100056: BanYuan 1
+    100058: Bone001
+    100060: Bone001 1
+    100062: Bone001 2
+    100064: Bone001 3
+    100066: Bone001 4
+    100068: Bone001 5
+    100070: Bone002
+    100072: Bone002 1
+    100074: Bone002 2
+    100076: Bone002 3
+    100078: Bone003
+    100080: Bone003 1
+    100082: Bone003 10
+    100084: Bone003 2
+    100086: Bone003 3
+    100088: Bone003 4
+    100090: Bone003 5
+    100092: Bone003 6
+    100094: Bone003 7
+    100096: Bone003 8
+    100098: Bone003 9
+    100100: Bone003(mirrored)
+    100102: Bone003(mirrored) 1
+    100104: Bone003(mirrored) 2
+    100106: Bone003(mirrored) 3
+    100108: Bone003(mirrored) 4
+    100110: Bone003(mirrored) 5
+    100112: Bone003(mirrored) 6
+    100114: Bone004
+    100116: Bone004 1
+    100118: Bone004 2
+    100120: Bone004 3
+    100122: Bone005
+    100124: Bone005 1
+    100126: Bone005 10
+    100128: Bone005 2
+    100130: Bone005 3
+    100132: Bone005 4
+    100134: Bone005 5
+    100136: Bone005 6
+    100138: Bone005 7
+    100140: Bone005 8
+    100142: Bone005 9
+    100144: Bone005(mirrored)
+    100146: Bone005(mirrored) 1
+    100148: Bone006
+    100150: Bone006 1
+    100152: Bone006 2
+    100154: Bone006 3
+    100156: Bone007
+    100158: Bone007 1
+    100160: Bone007 10
+    100162: Bone007 2
+    100164: Bone007 3
+    100166: Bone007 4
+    100168: Bone007 5
+    100170: Bone007 6
+    100172: Bone007 7
+    100174: Bone007 8
+    100176: Bone007 9
+    100178: Bone007(mirrored)
+    100180: Bone007(mirrored) 1
+    100182: Bone008
+    100184: Bone008 1
+    100186: Bone008 2
+    100188: Bone008 3
+    100190: Bone009
+    100192: Bone009 1
+    100194: Bone009 10
+    100196: Bone009 2
+    100198: Bone009 3
+    100200: Bone009 4
+    100202: Bone009 5
+    100204: Bone009 6
+    100206: Bone009 7
+    100208: Bone009 8
+    100210: Bone009 9
+    100212: Bone009(mirrored)
+    100214: Bone009(mirrored) 1
+    100216: Bone010
+    100218: Bone010 1
+    100220: Bone010 2
+    100222: Bone010 3
+    100224: Bone011
+    100226: Bone011 1
+    100228: Bone011 10
+    100230: Bone011 2
+    100232: Bone011 3
+    100234: Bone011 4
+    100236: Bone011 5
+    100238: Bone011 6
+    100240: Bone011 7
+    100242: Bone011 8
+    100244: Bone011 9
+    100246: Bone011(mirrored)
+    100248: Bone011(mirrored) 1
+    100250: Bone011(mirrored) 2
+    100252: Bone011(mirrored) 3
+    100254: Bone011(mirrored) 4
+    100256: Bone011(mirrored) 5
+    100258: Bone011(mirrored) 6
+    100260: Bone012
+    100262: Bone012 1
+    100264: Bone012 2
+    100266: Bone012 3
+    100268: Bone012(mirrored)
+    100270: Bone012(mirrored) 1
+    100272: Bone013
+    100274: Bone013 1
+    100276: Bone013 2
+    100278: Bone013 3
+    100280: Bone013 4
+    100282: Bone013 5
+    100284: Bone013 6
+    100286: Bone013(mirrored)
+    100288: Bone013(mirrored) 1
+    100290: Bone013(mirrored) 2
+    100292: Bone013(mirrored) 3
+    100294: Bone013(mirrored) 4
+    100296: Bone013(mirrored) 5
+    100298: Bone013(mirrored) 6
+    100300: Bone015
+    100302: Bone015 1
+    100304: Bone015 2
+    100306: Bone015 3
+    100308: Bone015 4
+    100310: Bone015 5
+    100312: Bone015 6
+    100314: Bone015(mirrored)
+    100316: Bone015(mirrored) 1
+    100318: Bone015(mirrored) 2
+    100320: Bone015(mirrored) 3
+    100322: Bone015(mirrored) 4
+    100324: Bone015(mirrored) 5
+    100326: Bone015(mirrored) 6
+    100328: Bone017
+    100330: Bone017 1
+    100332: Bone017 10
+    100334: Bone017 2
+    100336: Bone017 3
+    100338: Bone017 4
+    100340: Bone017 5
+    100342: Bone017 6
+    100344: Bone017 7
+    100346: Bone017 8
+    100348: Bone017 9
+    100350: Bone018
+    100352: Bone018 1
+    100354: Bone018 2
+    100356: Bone018 3
+    100358: Bone018 4
+    100360: Bone018 5
+    100362: Bone018(mirrored)
+    100364: Bone018(mirrored) 1
+    100366: Bone019
+    100368: Bone019 1
+    100370: Bone019 2
+    100372: Bone019 3
+    100374: Bone019 4
+    100376: Bone019 5
+    100378: Bone019 6
+    100380: Bone019 7
+    100382: Bone019 8
+    100384: Bone019(mirrored)
+    100386: Bone019(mirrored) 1
+    100388: Bone019(mirrored) 2
+    100390: Bone019(mirrored) 3
+    100392: Bone019(mirrored) 4
+    100394: Bone020
+    100396: Bone020 1
+    100398: Bone020 2
+    100400: Bone020 3
+    100402: Bone020 4
+    100404: Bone020 5
+    100406: Bone021
+    100408: Bone021 1
+    100410: Bone021 2
+    100412: Bone021 3
+    100414: Bone021 4
+    100416: Bone021 5
+    100418: Bone021 6
+    100420: Bone021 7
+    100422: Bone021 8
+    100424: Bone022
+    100426: Bone022 1
+    100428: Bone022 2
+    100430: Bone022 3
+    100432: Bone022 4
+    100434: Bone022 5
+    100436: Bone023
+    100438: Bone023 1
+    100440: Bone023 2
+    100442: Bone023 3
+    100444: Bone024
+    100446: Bone024 1
+    100448: Bone024 10
+    100450: Bone024 2
+    100452: Bone024 3
+    100454: Bone024 4
+    100456: Bone024 5
+    100458: Bone024 6
+    100460: Bone024 7
+    100462: Bone024 8
+    100464: Bone024 9
+    100466: Bone024(mirrored)
+    100468: Bone024(mirrored) 1
+    100470: Bone025
+    100472: Bone025 1
+    100474: Bone025 2
+    100476: Bone025 3
+    100478: Bone026
+    100480: Bone026 1
+    100482: Bone026 2
+    100484: Bone026 3
+    100486: Bone027
+    100488: Bone027 1
+    100490: Bone027 2
+    100492: Bone027 3
+    100494: Bone028
+    100496: Bone028 1
+    100498: Bone028 2
+    100500: Bone028 3
+    100502: Bone031
+    100504: Bone031 1
+    100506: Bone031 2
+    100508: Bone031 3
+    100510: Bone032
+    100512: Bone032 1
+    100514: Bone032 2
+    100516: Bone032 3
+    100518: Bone033
+    100520: Bone033 1
+    100522: Bone033 2
+    100524: Bone033 3
+    100526: Bone034
+    100528: Bone034 1
+    100530: Bone034 2
+    100532: Bone034 3
+    100534: Bone035
+    100536: Bone035 1
+    100538: Bone035 2
+    100540: Bone035 3
+    100542: Bone036
+    100544: Bone036 1
+    100546: Bone036 2
+    100548: Bone036 3
+    100550: Bone039
+    100552: Bone039 1
+    100554: Bone039 2
+    100556: Bone039 3
+    100558: Bone040
+    100560: Bone040 1
+    100562: Bone040 2
+    100564: Bone040 3
+    100566: Bone041
+    100568: Bone041 1
+    100570: Bone041 2
+    100572: Bone041 3
+    100574: Bone042
+    100576: Bone042 1
+    100578: Bone042 2
+    100580: Bone042 3
+    100582: Bone043
+    100584: Bone043 1
+    100586: Bone043 2
+    100588: Bone043 3
+    100590: Bone044
+    100592: Bone044 1
+    100594: Bone044 2
+    100596: Bone044 3
+    100598: Bone045
+    100600: Bone045 1
+    100602: Bone045 2
+    100604: Bone045 3
+    100606: Bone046
+    100608: Bone046 1
+    100610: Bone046 2
+    100612: Bone046 3
+    100614: Bone055
+    100616: Bone055 1
+    100618: Bone055 2
+    100620: Bone055 3
+    100622: Bone056
+    100624: Bone056 1
+    100626: Bone056 2
+    100628: Bone056 3
+    100630: Bone057
+    100632: Bone057 1
+    100634: Bone057 2
+    100636: Bone057 3
+    100638: Bone058
+    100640: Bone058 1
+    100642: Bone058 2
+    100644: Bone058 3
+    100646: Bone059
+    100648: Bone059 1
+    100650: Bone059 2
+    100652: Bone059 3
+    100654: Bone060
+    100656: Bone060 1
+    100658: Bone060 2
+    100660: Bone060 3
+    100662: Bone061
+    100664: Bone061 1
+    100666: Bone061 2
+    100668: Bone061 3
+    100670: Bone062
+    100672: Bone062 1
+    100674: Bone062 2
+    100676: Bone062 3
+    100678: Bone064
+    100680: Bone064 1
+    100682: Bone064 2
+    100684: Bone064 3
+    100686: Fire
+    100688: Glow_DiCeng
+    100690: Glow_DiCeng 1
+    100692: Glow_DiCeng1
+    100694: Glow_DiCeng1 1
+    100696: Glow_DiCeng2
+    100698: Glow_DiCeng3
+    100700: Glow_Huo
+    100702: Glow_Huo 1
+    100704: GuLuGuLu
+    100706: GuLuGuLu 1
+    100708: GuLuGuLu 10
+    100710: GuLuGuLu 11
+    100712: GuLuGuLu 2
+    100714: GuLuGuLu 3
+    100716: GuLuGuLu 4
+    100718: GuLuGuLu 5
+    100720: GuLuGuLu 6
+    100722: GuLuGuLu 7
+    100724: GuLuGuLu 8
+    100726: GuLuGuLu 9
+    100728: guluguluLV1
+    100730: guluguluLV1Fx1
+    100732: guluguluLV1Fx2
+    100734: guluguluLV1Fx3
+    100736: guluguluLV2
+    100738: guluguluLV2Fx
+    100740: guluguluLV2Fx2
+    100742: guluguluLV3Fx1
+    100744: guluguluLV3Fx1 1
+    100746: hong2_LV2_idle
+    100748: hong2_LV2_idle 1
+    100750: hong3
+    100752: hong3 1
+    100754: HongSe_LV2
+    100756: HongSe_LV2 1
+    100758: HongSe_LV2 10
+    100760: HongSe_LV2 11
+    100762: HongSe_LV2 2
+    100764: HongSe_LV2 3
+    100766: HongSe_LV2 4
+    100768: HongSe_LV2 5
+    100770: HongSe_LV2 6
+    100772: HongSe_LV2 7
+    100774: HongSe_LV2 8
+    100776: HongSe_LV2 9
+    100778: idle
+    100780: idle 1
+    100782: idle 2
+    100784: idle 3
+    100786: idle 4
+    100788: idle 5
+    100790: idle 6
+    100792: idle 7
+    100794: idle 8
+    100796: LG
+    100798: LG 1
+    100800: LG 10
+    100802: LG 11
+    100804: LG 12
+    100806: LG 13
+    100808: LG 14
+    100810: LG 15
+    100812: LG 16
+    100814: LG 2
+    100816: LG 3
+    100818: LG 4
+    100820: LG 5
+    100822: LG 6
+    100824: LG 7
+    100826: LG 8
+    100828: LG 9
+    100830: Object010
+    100832: Object010 1
+    100834: Object010 2
+    100836: Object010 3
+    100838: Object010 4
+    100840: Object015
+    100842: Object015 1
+    100844: Object015 2
+    100846: Object015 3
+    100848: Penshe_l
+    100850: Penshe_l 1
+    100852: Penshe_l 2
+    100854: Quad
+    100856: Quad 1
+    100858: Quad 2
+    100860: Quad 3
+    100862: Quad 4
+    100864: Quad 5
+    100866: Quad 6
+    100868: Quad1
+    100870: Quad1 1
+    100872: Quad1 2
+    100874: Quad1 3
+    100876: Quad2
+    100878: sanxing
+    100880: sanxing 1
+    100882: sanxing 2
+    100884: sanxing1
+    100886: sanxing1 1
+    100888: Star
+    100890: Star 1
+    100892: Star 2
+    100894: Star 3
+    100896: Star 4
+    100898: Star 5
+    100900: Xian
+    100902: Xian 1
+    100904: Xian 2
+    100906: Xian 3
+    100908: Xian1
+    100910: Xian1 1
+    100912: Xian1 2
+    100914: Xian1 3
+    100916: yq
+    100918: yq 1
+    100920: yq 2
+    100922: yq 3
+    100924: yq1
+    100926: yq1 1
+    100928: yuanqua
+    100930: yuanqua 1
+    100932: yuanqua 2
+    100934: zidan
+    100936: zidan0
+    100938: zidan0 1
+    100940: zidan0 2
+    100942: zidan1.5
+    100944: zidan1.5 1
+    100946: zidan1.5 2
+    100948: zidan2.5
+    100950: zidan2.5 1
+    100952: zidan2.5 2
+    100954: zidan3.5
+    100956: zidan3.5 1
+    100958: zidan3.5 2
+    100960: zxd
+    100962: zxd 1
+    100964: zxd 2
+    400000: 1
+    400002: 1 1
+    400004: 1 2
+    400006: 1 3
+    400008: 123
+    400010: 123 1
+    400012: 123 2
+    400014: 123 3
+    400016: 123 4
+    400018: 123 5
+    400020: 123 6
+    400022: 124
+    400024: 124 1
+    400026: 124 2
+    400028: 124 3
+    400030: 124 4
+    400032: 124 5
+    400034: 2
+    400036: 2 1
+    400038: 2 2
+    400040: 3
+    400042: 3 1
+    400044: 3 2
+    400046: 4
+    400048: 4 1
+    400050: 4 2
+    400052: //RootNode
+    400054: BanYuan
+    400056: BanYuan 1
+    400058: Bone001
+    400060: Bone001 1
+    400062: Bone001 2
+    400064: Bone001 3
+    400066: Bone001 4
+    400068: Bone001 5
+    400070: Bone002
+    400072: Bone002 1
+    400074: Bone002 2
+    400076: Bone002 3
+    400078: Bone003
+    400080: Bone003 1
+    400082: Bone003 10
+    400084: Bone003 2
+    400086: Bone003 3
+    400088: Bone003 4
+    400090: Bone003 5
+    400092: Bone003 6
+    400094: Bone003 7
+    400096: Bone003 8
+    400098: Bone003 9
+    400100: Bone003(mirrored)
+    400102: Bone003(mirrored) 1
+    400104: Bone003(mirrored) 2
+    400106: Bone003(mirrored) 3
+    400108: Bone003(mirrored) 4
+    400110: Bone003(mirrored) 5
+    400112: Bone003(mirrored) 6
+    400114: Bone004
+    400116: Bone004 1
+    400118: Bone004 2
+    400120: Bone004 3
+    400122: Bone005
+    400124: Bone005 1
+    400126: Bone005 10
+    400128: Bone005 2
+    400130: Bone005 3
+    400132: Bone005 4
+    400134: Bone005 5
+    400136: Bone005 6
+    400138: Bone005 7
+    400140: Bone005 8
+    400142: Bone005 9
+    400144: Bone005(mirrored)
+    400146: Bone005(mirrored) 1
+    400148: Bone006
+    400150: Bone006 1
+    400152: Bone006 2
+    400154: Bone006 3
+    400156: Bone007
+    400158: Bone007 1
+    400160: Bone007 10
+    400162: Bone007 2
+    400164: Bone007 3
+    400166: Bone007 4
+    400168: Bone007 5
+    400170: Bone007 6
+    400172: Bone007 7
+    400174: Bone007 8
+    400176: Bone007 9
+    400178: Bone007(mirrored)
+    400180: Bone007(mirrored) 1
+    400182: Bone008
+    400184: Bone008 1
+    400186: Bone008 2
+    400188: Bone008 3
+    400190: Bone009
+    400192: Bone009 1
+    400194: Bone009 10
+    400196: Bone009 2
+    400198: Bone009 3
+    400200: Bone009 4
+    400202: Bone009 5
+    400204: Bone009 6
+    400206: Bone009 7
+    400208: Bone009 8
+    400210: Bone009 9
+    400212: Bone009(mirrored)
+    400214: Bone009(mirrored) 1
+    400216: Bone010
+    400218: Bone010 1
+    400220: Bone010 2
+    400222: Bone010 3
+    400224: Bone011
+    400226: Bone011 1
+    400228: Bone011 10
+    400230: Bone011 2
+    400232: Bone011 3
+    400234: Bone011 4
+    400236: Bone011 5
+    400238: Bone011 6
+    400240: Bone011 7
+    400242: Bone011 8
+    400244: Bone011 9
+    400246: Bone011(mirrored)
+    400248: Bone011(mirrored) 1
+    400250: Bone011(mirrored) 2
+    400252: Bone011(mirrored) 3
+    400254: Bone011(mirrored) 4
+    400256: Bone011(mirrored) 5
+    400258: Bone011(mirrored) 6
+    400260: Bone012
+    400262: Bone012 1
+    400264: Bone012 2
+    400266: Bone012 3
+    400268: Bone012(mirrored)
+    400270: Bone012(mirrored) 1
+    400272: Bone013
+    400274: Bone013 1
+    400276: Bone013 2
+    400278: Bone013 3
+    400280: Bone013 4
+    400282: Bone013 5
+    400284: Bone013 6
+    400286: Bone013(mirrored)
+    400288: Bone013(mirrored) 1
+    400290: Bone013(mirrored) 2
+    400292: Bone013(mirrored) 3
+    400294: Bone013(mirrored) 4
+    400296: Bone013(mirrored) 5
+    400298: Bone013(mirrored) 6
+    400300: Bone015
+    400302: Bone015 1
+    400304: Bone015 2
+    400306: Bone015 3
+    400308: Bone015 4
+    400310: Bone015 5
+    400312: Bone015 6
+    400314: Bone015(mirrored)
+    400316: Bone015(mirrored) 1
+    400318: Bone015(mirrored) 2
+    400320: Bone015(mirrored) 3
+    400322: Bone015(mirrored) 4
+    400324: Bone015(mirrored) 5
+    400326: Bone015(mirrored) 6
+    400328: Bone017
+    400330: Bone017 1
+    400332: Bone017 10
+    400334: Bone017 2
+    400336: Bone017 3
+    400338: Bone017 4
+    400340: Bone017 5
+    400342: Bone017 6
+    400344: Bone017 7
+    400346: Bone017 8
+    400348: Bone017 9
+    400350: Bone018
+    400352: Bone018 1
+    400354: Bone018 2
+    400356: Bone018 3
+    400358: Bone018 4
+    400360: Bone018 5
+    400362: Bone018(mirrored)
+    400364: Bone018(mirrored) 1
+    400366: Bone019
+    400368: Bone019 1
+    400370: Bone019 2
+    400372: Bone019 3
+    400374: Bone019 4
+    400376: Bone019 5
+    400378: Bone019 6
+    400380: Bone019 7
+    400382: Bone019 8
+    400384: Bone019(mirrored)
+    400386: Bone019(mirrored) 1
+    400388: Bone019(mirrored) 2
+    400390: Bone019(mirrored) 3
+    400392: Bone019(mirrored) 4
+    400394: Bone020
+    400396: Bone020 1
+    400398: Bone020 2
+    400400: Bone020 3
+    400402: Bone020 4
+    400404: Bone020 5
+    400406: Bone021
+    400408: Bone021 1
+    400410: Bone021 2
+    400412: Bone021 3
+    400414: Bone021 4
+    400416: Bone021 5
+    400418: Bone021 6
+    400420: Bone021 7
+    400422: Bone021 8
+    400424: Bone022
+    400426: Bone022 1
+    400428: Bone022 2
+    400430: Bone022 3
+    400432: Bone022 4
+    400434: Bone022 5
+    400436: Bone023
+    400438: Bone023 1
+    400440: Bone023 2
+    400442: Bone023 3
+    400444: Bone024
+    400446: Bone024 1
+    400448: Bone024 10
+    400450: Bone024 2
+    400452: Bone024 3
+    400454: Bone024 4
+    400456: Bone024 5
+    400458: Bone024 6
+    400460: Bone024 7
+    400462: Bone024 8
+    400464: Bone024 9
+    400466: Bone024(mirrored)
+    400468: Bone024(mirrored) 1
+    400470: Bone025
+    400472: Bone025 1
+    400474: Bone025 2
+    400476: Bone025 3
+    400478: Bone026
+    400480: Bone026 1
+    400482: Bone026 2
+    400484: Bone026 3
+    400486: Bone027
+    400488: Bone027 1
+    400490: Bone027 2
+    400492: Bone027 3
+    400494: Bone028
+    400496: Bone028 1
+    400498: Bone028 2
+    400500: Bone028 3
+    400502: Bone031
+    400504: Bone031 1
+    400506: Bone031 2
+    400508: Bone031 3
+    400510: Bone032
+    400512: Bone032 1
+    400514: Bone032 2
+    400516: Bone032 3
+    400518: Bone033
+    400520: Bone033 1
+    400522: Bone033 2
+    400524: Bone033 3
+    400526: Bone034
+    400528: Bone034 1
+    400530: Bone034 2
+    400532: Bone034 3
+    400534: Bone035
+    400536: Bone035 1
+    400538: Bone035 2
+    400540: Bone035 3
+    400542: Bone036
+    400544: Bone036 1
+    400546: Bone036 2
+    400548: Bone036 3
+    400550: Bone039
+    400552: Bone039 1
+    400554: Bone039 2
+    400556: Bone039 3
+    400558: Bone040
+    400560: Bone040 1
+    400562: Bone040 2
+    400564: Bone040 3
+    400566: Bone041
+    400568: Bone041 1
+    400570: Bone041 2
+    400572: Bone041 3
+    400574: Bone042
+    400576: Bone042 1
+    400578: Bone042 2
+    400580: Bone042 3
+    400582: Bone043
+    400584: Bone043 1
+    400586: Bone043 2
+    400588: Bone043 3
+    400590: Bone044
+    400592: Bone044 1
+    400594: Bone044 2
+    400596: Bone044 3
+    400598: Bone045
+    400600: Bone045 1
+    400602: Bone045 2
+    400604: Bone045 3
+    400606: Bone046
+    400608: Bone046 1
+    400610: Bone046 2
+    400612: Bone046 3
+    400614: Bone055
+    400616: Bone055 1
+    400618: Bone055 2
+    400620: Bone055 3
+    400622: Bone056
+    400624: Bone056 1
+    400626: Bone056 2
+    400628: Bone056 3
+    400630: Bone057
+    400632: Bone057 1
+    400634: Bone057 2
+    400636: Bone057 3
+    400638: Bone058
+    400640: Bone058 1
+    400642: Bone058 2
+    400644: Bone058 3
+    400646: Bone059
+    400648: Bone059 1
+    400650: Bone059 2
+    400652: Bone059 3
+    400654: Bone060
+    400656: Bone060 1
+    400658: Bone060 2
+    400660: Bone060 3
+    400662: Bone061
+    400664: Bone061 1
+    400666: Bone061 2
+    400668: Bone061 3
+    400670: Bone062
+    400672: Bone062 1
+    400674: Bone062 2
+    400676: Bone062 3
+    400678: Bone064
+    400680: Bone064 1
+    400682: Bone064 2
+    400684: Bone064 3
+    400686: Fire
+    400688: Glow_DiCeng
+    400690: Glow_DiCeng 1
+    400692: Glow_DiCeng1
+    400694: Glow_DiCeng1 1
+    400696: Glow_DiCeng2
+    400698: Glow_DiCeng3
+    400700: Glow_Huo
+    400702: Glow_Huo 1
+    400704: GuLuGuLu
+    400706: GuLuGuLu 1
+    400708: GuLuGuLu 10
+    400710: GuLuGuLu 11
+    400712: GuLuGuLu 2
+    400714: GuLuGuLu 3
+    400716: GuLuGuLu 4
+    400718: GuLuGuLu 5
+    400720: GuLuGuLu 6
+    400722: GuLuGuLu 7
+    400724: GuLuGuLu 8
+    400726: GuLuGuLu 9
+    400728: guluguluLV1
+    400730: guluguluLV1Fx1
+    400732: guluguluLV1Fx2
+    400734: guluguluLV1Fx3
+    400736: guluguluLV2
+    400738: guluguluLV2Fx
+    400740: guluguluLV2Fx2
+    400742: guluguluLV3Fx1
+    400744: guluguluLV3Fx1 1
+    400746: hong2_LV2_idle
+    400748: hong2_LV2_idle 1
+    400750: hong3
+    400752: hong3 1
+    400754: HongSe_LV2
+    400756: HongSe_LV2 1
+    400758: HongSe_LV2 10
+    400760: HongSe_LV2 11
+    400762: HongSe_LV2 2
+    400764: HongSe_LV2 3
+    400766: HongSe_LV2 4
+    400768: HongSe_LV2 5
+    400770: HongSe_LV2 6
+    400772: HongSe_LV2 7
+    400774: HongSe_LV2 8
+    400776: HongSe_LV2 9
+    400778: idle
+    400780: idle 1
+    400782: idle 2
+    400784: idle 3
+    400786: idle 4
+    400788: idle 5
+    400790: idle 6
+    400792: idle 7
+    400794: idle 8
+    400796: LG
+    400798: LG 1
+    400800: LG 10
+    400802: LG 11
+    400804: LG 12
+    400806: LG 13
+    400808: LG 14
+    400810: LG 15
+    400812: LG 16
+    400814: LG 2
+    400816: LG 3
+    400818: LG 4
+    400820: LG 5
+    400822: LG 6
+    400824: LG 7
+    400826: LG 8
+    400828: LG 9
+    400830: Object010
+    400832: Object010 1
+    400834: Object010 2
+    400836: Object010 3
+    400838: Object010 4
+    400840: Object015
+    400842: Object015 1
+    400844: Object015 2
+    400846: Object015 3
+    400848: Penshe_l
+    400850: Penshe_l 1
+    400852: Penshe_l 2
+    400854: Quad
+    400856: Quad 1
+    400858: Quad 2
+    400860: Quad 3
+    400862: Quad 4
+    400864: Quad 5
+    400866: Quad 6
+    400868: Quad1
+    400870: Quad1 1
+    400872: Quad1 2
+    400874: Quad1 3
+    400876: Quad2
+    400878: sanxing
+    400880: sanxing 1
+    400882: sanxing 2
+    400884: sanxing1
+    400886: sanxing1 1
+    400888: Star
+    400890: Star 1
+    400892: Star 2
+    400894: Star 3
+    400896: Star 4
+    400898: Star 5
+    400900: Xian
+    400902: Xian 1
+    400904: Xian 2
+    400906: Xian 3
+    400908: Xian1
+    400910: Xian1 1
+    400912: Xian1 2
+    400914: Xian1 3
+    400916: yq
+    400918: yq 1
+    400920: yq 2
+    400922: yq 3
+    400924: yq1
+    400926: yq1 1
+    400928: yuanqua
+    400930: yuanqua 1
+    400932: yuanqua 2
+    400934: zidan
+    400936: zidan0
+    400938: zidan0 1
+    400940: zidan0 2
+    400942: zidan1.5
+    400944: zidan1.5 1
+    400946: zidan1.5 2
+    400948: zidan2.5
+    400950: zidan2.5 1
+    400952: zidan2.5 2
+    400954: zidan3.5
+    400956: zidan3.5 1
+    400958: zidan3.5 2
+    400960: zxd
+    400962: zxd 1
+    400964: zxd 2
+    2300000: 1
+    2300002: 1 1
+    2300004: 1 2
+    2300006: 1 3
+    2300008: 123
+    2300010: 123 1
+    2300012: 123 2
+    2300014: 123 3
+    2300016: 123 4
+    2300018: 123 5
+    2300020: 123 6
+    2300022: 124
+    2300024: 124 1
+    2300026: 124 2
+    2300028: 124 3
+    2300030: 124 4
+    2300032: 124 5
+    2300034: 3
+    2300036: 3 1
+    2300038: 3 2
+    2300040: BanYuan
+    2300042: BanYuan 1
+    2300044: Glow_DiCeng2
+    2300046: Glow_DiCeng3
+    2300048: Glow_Huo
+    2300050: Glow_Huo 1
+    2300052: sanxing
+    2300054: sanxing 1
+    2300056: sanxing 2
+    2300058: sanxing1
+    2300060: sanxing1 1
+    2300062: yq
+    2300064: yq 3
+    2300066: yq1
+    2300068: yq1 1
+    2300070: zidan
+    2300072: zidan0
+    2300074: zidan0 1
+    2300076: zidan0 2
+    2300078: zidan1.5
+    2300080: zidan1.5 1
+    2300082: zidan1.5 2
+    2300084: zidan2.5
+    2300086: zidan2.5 1
+    2300088: zidan2.5 2
+    2300090: zidan3.5
+    2300092: zidan3.5 1
+    2300094: zidan3.5 2
+    2300096: zxd
+    2300098: zxd 1
+    2300100: zxd 2
+    3300000: 1
+    3300002: 1 1
+    3300004: 1 2
+    3300006: 1 3
+    3300008: 123
+    3300010: 123 1
+    3300012: 123 2
+    3300014: 123 3
+    3300016: 123 4
+    3300018: 123 5
+    3300020: 123 6
+    3300022: 124
+    3300024: 124 1
+    3300026: 124 2
+    3300028: 124 3
+    3300030: 124 4
+    3300032: 124 5
+    3300034: 3
+    3300036: 3 1
+    3300038: 3 2
+    3300040: BanYuan
+    3300042: BanYuan 1
+    3300044: Glow_DiCeng2
+    3300046: Glow_DiCeng3
+    3300048: Glow_Huo
+    3300050: Glow_Huo 1
+    3300052: sanxing
+    3300054: sanxing 1
+    3300056: sanxing 2
+    3300058: sanxing1
+    3300060: sanxing1 1
+    3300062: yq
+    3300064: yq 3
+    3300066: yq1
+    3300068: yq1 1
+    3300070: zidan
+    3300072: zidan0
+    3300074: zidan0 1
+    3300076: zidan0 2
+    3300078: zidan1.5
+    3300080: zidan1.5 1
+    3300082: zidan1.5 2
+    3300084: zidan2.5
+    3300086: zidan2.5 1
+    3300088: zidan2.5 2
+    3300090: zidan3.5
+    3300092: zidan3.5 1
+    3300094: zidan3.5 2
+    3300096: zxd
+    3300098: zxd 1
+    3300100: zxd 2
+    4300000: BanYuan
+    4300002: 1
+    4300004: zxd
+    4300006: sanxing
+    4300008: zidan
+    4300010: 123
+    4300012: yq
+    4300014: Object010
+    4300016: hong3
+    4300018: Object015
+    4300020: Object010
+    4300022: hong3
+    4300024: Object015
+    4300026: Object010
+    4300028: Object015
+    4300030: Object015
+    4300032: Object010
+    4300034: Object010
+    9500000: //RootNode
+    13700000: hong3
+    13700002: hong3 1
+    13700004: Object010
+    13700006: Object010 1
+    13700008: Object010 2
+    13700010: Object010 3
+    13700012: Object010 4
+    13700014: Object015
+    13700016: Object015 1
+    13700018: Object015 2
+    13700020: Object015 3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 14afdd575452d2a46aa9f75e05101ad0
+timeCreated: 1495374684
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MouseTexture: {fileID: 2800000, guid: 8adaeec635ba53340ba7064ef8eb71b3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
